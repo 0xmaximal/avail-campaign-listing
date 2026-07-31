@@ -33,3 +33,4 @@ format to listing.json.
 6. Wait for all CI checks to pass
 
 Checkout this sample [PR](https://github.com/karnotxyz/avail-campaign-listing/pull/195).
+dogasezer
